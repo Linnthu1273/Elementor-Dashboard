@@ -524,6 +524,8 @@ body{
     overflow: hidden; 
     margin-right: 20px;
     margin-bottom: 20px;
+    position: relative;
+    left: -10px;
 }
 
 .team-navbar-text{
